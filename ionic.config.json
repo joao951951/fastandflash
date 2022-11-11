@@ -1,0 +1,7 @@
+{
+  "name": "fastandflash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
